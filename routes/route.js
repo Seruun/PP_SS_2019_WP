@@ -67,4 +67,8 @@ router.get('/dsgvo', function(req, res, next) {
     });
 });
 
+router.get('/health-check', function(req, res, next) {
+    res.sendStatus(200);
+});
+
 module.exports = router;
