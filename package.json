@@ -1,0 +1,23 @@
+{
+  "name": "pp_ss_2019_wp",
+  "version": "1.0.0",
+  "description": "Prüfungsprojekt Sommersemester 2019 Webprogrammierung",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Seruun/PP_SS_2019_WP.git"
+  },
+  "author": "Christopher Hübner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Seruun/PP_SS_2019_WP/issues"
+  },
+  "homepage": "https://github.com/Seruun/PP_SS_2019_WP#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.0.4"
+  }
+}
