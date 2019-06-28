@@ -1,0 +1,51 @@
+body {
+    width: 100%;
+    /* Margin bottom by footer height */
+    margin-bottom: 60px;
+}
+
+p {
+    font-weight: 400;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 60px;
+    line-height: 60px;
+    /* Vertically center the text there */
+    background-color: #293133;
+}
+
+.text_color_white {
+    color: whitesmoke;
+}
+
+.primary_color {
+    color: #293133;
+}
+
+.secondary_color,
+.text_color_red,
+li.a,
+a {
+    color: #a2231d !important;
+    font-weight: bolder;
+}
+
+.header_image {
+    background: url(https://images.unsplash.com/photo-1482329033286-79a3d24413b4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80) no-repeat top center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: calc(100% - 60px);
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+.text_font_head {
+    font-family: 'Bangers', cursive !important;
+}
