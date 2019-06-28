@@ -4,7 +4,8 @@
     "description": "Prüfungsprojekt Sommersemester 2019 Webprogrammierung",
     "main": "index.js",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "ubuntu-update": "apt update && apt upgrade -y && apt autoclean -y && apt autoremove -y",
+        "website": "git reset --hard && git pull && npm install --unsafe-perm && pm2 reload all && npm run ubuntu-update"
     },
     "repository": {
         "type": "git",
