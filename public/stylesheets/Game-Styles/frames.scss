@@ -22,10 +22,9 @@
 }
 
 .framebannerbg {
-  background-image: url(img/envor.png);
-  background-color: transparent;
-  background-position: top center;
-  background-repeat: no-repeat;
+  background:
+          url(img/envor.png) top center no-repeat,
+          url(img/dark-stone.jpg);
   border-bottom: 1px solid $black;
   background-size: contain;
 }
