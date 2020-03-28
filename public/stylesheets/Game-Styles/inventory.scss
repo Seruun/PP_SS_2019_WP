@@ -13,3 +13,86 @@
 .healthcritical {
   color: $crit-color;
 }
+
+/* Prozentuale LP-Färbung */
+[id$="lpdisp"][data-percent*="50."] span, [id$="lpdisp"][data-percent="50"] span, [id$="lpdisp"][data-percent*="51."] span, [id$="lpdisp"][data-percent="51"] span, [id$="lpdisp"][data-percent*="52."] span, [id$="lpdisp"][data-percent="52"] span, [id$="lpdisp"][data-percent*="53."] span, [id$="lpdisp"][data-percent="53"] span, [id$="lpdisp"][data-percent*="54."] span, [id$="lpdisp"][data-percent="54"] span, [id$="lpdisp"][data-percent*="55."] span, [id$="lpdisp"][data-percent="55"] span, [id$="lpdisp"][data-percent*="56."] span, [id$="lpdisp"][data-percent="56"] span, [id$="lpdisp"][data-percent*="57."] span, [id$="lpdisp"][data-percent="57"] span, [id$="lpdisp"][data-percent*="58."] span, [id$="lpdisp"][data-percent="58"] span, [id$="lpdisp"][data-percent*="59."] span, [id$="lpdisp"][data-percent="59"] span, [id$="lpdisp"][data-percent*="60."] span, [id$="lpdisp"][data-percent="60"] span, [id$="lpdisp"][data-percent*="61."] span, [id$="lpdisp"][data-percent="61"] span, [id$="lpdisp"][data-percent*="62."] span, [id$="lpdisp"][data-percent="62"] span, [id$="lpdisp"][data-percent*="63."] span, [id$="lpdisp"][data-percent="63"] span, [id$="lpdisp"][data-percent*="64."] span, [id$="lpdisp"][data-percent="64"] span, [id$="lpdisp"][data-percent*="65."] span, [id$="lpdisp"][data-percent="65"] span, [id$="lpdisp"][data-percent*="66."] span, [id$="lpdisp"][data-percent="66"] span, [id$="lpdisp"][data-percent*="67."] span, [id$="lpdisp"][data-percent="67"] span, [id$="lpdisp"][data-percent*="68."] span, [id$="lpdisp"][data-percent="68"] span, [id$="lpdisp"][data-percent*="69."] span, [id$="lpdisp"][data-percent="69"] span, [id$="lpdisp"][data-percent*="70."] span, [id$="lpdisp"][data-percent="70"] span, [id$="lpdisp"][data-percent*="71."] span, [id$="lpdisp"][data-percent="71"] span, [id$="lpdisp"][data-percent*="72."] span, [id$="lpdisp"][data-percent="72"] span, [id$="lpdisp"][data-percent*="73."] span, [id$="lpdisp"][data-percent="73"] span, [id$="lpdisp"][data-percent*="74."] span, [id$="lpdisp"][data-percent="74"] span, [id$="lpdisp"][data-percent*="75."] span, [id$="lpdisp"][data-percent="75"] span, [id$="lpdisp"][data-percent*="76."] span, [id$="lpdisp"][data-percent="76"] span, [id$="lpdisp"][data-percent*="77."] span, [id$="lpdisp"][data-percent="77"] span, [id$="lpdisp"][data-percent*="78."] span, [id$="lpdisp"][data-percent="78"] span, [id$="lpdisp"][data-percent*="79."] span, [id$="lpdisp"][data-percent="79"] span, [id$="lpdisp"][data-percent*="80."] span, [id$="lpdisp"][data-percent="80"] span, [id$="lpdisp"][data-percent*="81."] span, [id$="lpdisp"][data-percent="81"] span, [id$="lpdisp"][data-percent*="82."] span, [id$="lpdisp"][data-percent="82"] span, [id$="lpdisp"][data-percent*="83."] span, [id$="lpdisp"][data-percent="83"] span, [id$="lpdisp"][data-percent*="84."] span, [id$="lpdisp"][data-percent="84"] span, [id$="lpdisp"][data-percent*="85."] span, [id$="lpdisp"][data-percent="85"] span, [id$="lpdisp"][data-percent*="86."] span, [id$="lpdisp"][data-percent="86"] span, [id$="lpdisp"][data-percent*="87."] span, [id$="lpdisp"][data-percent="87"] span, [id$="lpdisp"][data-percent*="88."] span, [id$="lpdisp"][data-percent="88"] span, [id$="lpdisp"][data-percent*="89."] span, [id$="lpdisp"][data-percent="89"] span, [id$="lpdisp"][data-percent*="90."] span, [id$="lpdisp"][data-percent="90"] span, [id$="lpdisp"][data-percent*="91."] span, [id$="lpdisp"][data-percent="91"] span, [id$="lpdisp"][data-percent*="92."] span, [id$="lpdisp"][data-percent="92"] span, [id$="lpdisp"][data-percent*="93."] span, [id$="lpdisp"][data-percent="93"] span, [id$="lpdisp"][data-percent*="94."] span, [id$="lpdisp"][data-percent="94"] span, [id$="lpdisp"][data-percent*="95."] span, [id$="lpdisp"][data-percent="95"] span, [id$="lpdisp"][data-percent*="96."] span, [id$="lpdisp"][data-percent="96"] span, [id$="lpdisp"][data-percent*="97."] span, [id$="lpdisp"][data-percent="97"] span, [id$="lpdisp"][data-percent*="98."] span, [id$="lpdisp"][data-percent="98"] span, [id$="lpdisp"][data-percent*="99."] span, [id$="lpdisp"][data-percent="99"] span, [id$="lpdisp"][data-percent="100"] span {
+  color: $ok-color;
+}
+
+[id$="lpdisp"][data-percent*="10."] span, [id$="lpdisp"][data-percent="10"] span, [id$="lpdisp"][data-percent*="11."] span, [id$="lpdisp"][data-percent="11"] span, [id$="lpdisp"][data-percent*="12."] span, [id$="lpdisp"][data-percent="12"] span, [id$="lpdisp"][data-percent*="13."] span, [id$="lpdisp"][data-percent="13"] span, [id$="lpdisp"][data-percent*="14."] span, [id$="lpdisp"][data-percent="14"] span, [id$="lpdisp"][data-percent*="15."] span, [id$="lpdisp"][data-percent="15"] span, [id$="lpdisp"][data-percent*="16."] span, [id$="lpdisp"][data-percent="16"] span, [id$="lpdisp"][data-percent*="17."] span, [id$="lpdisp"][data-percent="17"] span, [id$="lpdisp"][data-percent*="18."] span, [id$="lpdisp"][data-percent="18"] span, [id$="lpdisp"][data-percent*="19."] span, [id$="lpdisp"][data-percent="19"] span, [id$="lpdisp"][data-percent*="20."] span, [id$="lpdisp"][data-percent="20"] span, [id$="lpdisp"][data-percent*="21."] span, [id$="lpdisp"][data-percent="21"] span, [id$="lpdisp"][data-percent*="22."] span, [id$="lpdisp"][data-percent="22"] span, [id$="lpdisp"][data-percent*="23."] span, [id$="lpdisp"][data-percent="23"] span, [id$="lpdisp"][data-percent*="24."] span, [id$="lpdisp"][data-percent="24"] span, [id$="lpdisp"][data-percent*="25."] span, [id$="lpdisp"][data-percent="25"] span, [id$="lpdisp"][data-percent*="26."] span, [id$="lpdisp"][data-percent="26"] span, [id$="lpdisp"][data-percent*="27."] span, [id$="lpdisp"][data-percent="27"] span, [id$="lpdisp"][data-percent*="28."] span, [id$="lpdisp"][data-percent="28"] span, [id$="lpdisp"][data-percent*="29."] span, [id$="lpdisp"][data-percent="29"] span, [id$="lpdisp"][data-percent*="30."] span, [id$="lpdisp"][data-percent="30"] span, [id$="lpdisp"][data-percent*="31."] span, [id$="lpdisp"][data-percent="31"] span, [id$="lpdisp"][data-percent*="32."] span, [id$="lpdisp"][data-percent="32"] span, [id$="lpdisp"][data-percent*="33."] span, [id$="lpdisp"][data-percent="33"] span, [id$="lpdisp"][data-percent*="34."] span, [id$="lpdisp"][data-percent="34"] span, [id$="lpdisp"][data-percent*="35."] span, [id$="lpdisp"][data-percent="35"] span, [id$="lpdisp"][data-percent*="36."] span, [id$="lpdisp"][data-percent="36"] span, [id$="lpdisp"][data-percent*="37."] span, [id$="lpdisp"][data-percent="37"] span, [id$="lpdisp"][data-percent*="38."] span, [id$="lpdisp"][data-percent="38"] span, [id$="lpdisp"][data-percent*="39."] span, [id$="lpdisp"][data-percent="39"] span, [id$="lpdisp"][data-percent*="40."] span, [id$="lpdisp"][data-percent="40"] span, [id$="lpdisp"][data-percent*="41."] span, [id$="lpdisp"][data-percent="41"] span, [id$="lpdisp"][data-percent*="42."] span, [id$="lpdisp"][data-percent="42"] span, [id$="lpdisp"][data-percent*="43."] span, [id$="lpdisp"][data-percent="43"] span, [id$="lpdisp"][data-percent*="44."] span, [id$="lpdisp"][data-percent="44"] span, [id$="lpdisp"][data-percent*="45."] span, [id$="lpdisp"][data-percent="45"] span, [id$="lpdisp"][data-percent*="46."] span, [id$="lpdisp"][data-percent="46"] span, [id$="lpdisp"][data-percent*="47."] span, [id$="lpdisp"][data-percent="47"] span, [id$="lpdisp"][data-percent*="48."] span, [id$="lpdisp"][data-percent="48"] span, [id$="lpdisp"][data-percent*="49."] span, [id$="lpdisp"][data-percent="49"] span {
+  color: $med-color;
+}
+
+[id$="lpdisp"] span {
+  color: $crit-color;
+}
+
+/* Tasks */
+a[href*="&buyuser=104748&"] {
+  color: $buy !important;
+}
+
+a[class="fastattack"] {
+  font-size: 16px;
+  color: $fastattack
+}
+
+a[href*="main.php?finish=1"] {
+  font-size: 16px;
+  color: $darkred;
+}
+
+a[href*="main.php?action=take&"] {
+  font-size: 16px;
+  color: $darkred
+}
+
+a[href*="main.php?arrive_eval=upgrade"] {
+  font-size: 1px
+}
+
+/* Statusanzeige */
+span[title*="(2 Minuten)"] {
+  text-decoration: blink;
+  font-weight: bold;
+}
+
+span[title*="(1 Minuten)"] {
+  text-decoration: blink;
+  font-weight: bold;
+}
+
+span[title*="(0 Minuten)"] {
+  text-decoration: blink;
+  font-weight: bold;
+}
+
+span[title*="(wenige Sekunden)"] {
+  text-decoration: blink;
+  font-weight: bold;
+}
+
+span[title*="(Noch 2 Minuten)"] {
+  text-decoration: blink;
+  font-weight: bold;
+}
+
+span[title*="(Noch 1 Minuten)"] {
+  text-decoration: blink;
+  font-weight: bold;
+}
+
+span[title*="(Noch 0 Minuten)"] {
+  text-decoration: blink;
+  font-weight: bold;
+}
+
+span[title*="(Noch wenige Sekunden)"] {
+  text-decoration: blink;
+  font-weight: bold;
+}
+
+span[title*="()"] {
+  text-decoration: blink;
+  font-weight: bold;
+}
