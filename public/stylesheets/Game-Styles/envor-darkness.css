@@ -9,8 +9,8 @@
 .input {
   font-size: 13px;
   background-color: transparent;
-  border: 1px solid black;
-  color: #444; }
+  border: 1px solid #444;
+  color: #ffe1e1; }
 
 .submitsagen {
   font-size: 12px;
