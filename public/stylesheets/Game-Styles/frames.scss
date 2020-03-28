@@ -35,3 +35,20 @@
   margin: 11px;
 }
 
+.frameitembg {
+  margin: 10px;
+  background-color: $main-BG;
+  background-image: url(img/itembg.png);
+  background-attachment: fixed;
+}
+
+.framemapbg {
+  margin: 10px;
+  margin-top: 5px;
+  background-color: $grey;
+  background-image: url(img/itembg.png);
+}
+
+.framemenubg {
+  background-image: url(img/itembg.png);
+}
