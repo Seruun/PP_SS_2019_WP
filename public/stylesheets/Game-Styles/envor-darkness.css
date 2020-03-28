@@ -231,16 +231,16 @@ p.listitemrow a[href*="action=activate"] {
 
 p.listitemrow b {
   font-size: 12px;
-  color: black; }
+  color: #f1f1f1; }
+
+b.itemname {
+  color: #f1f1f1; }
 
 .itemamount {
   font-size: 11px;
   margin-right: 3px;
   font-weight: bold;
   color: #600; }
-
-.itemname {
-  color: #f1f1f1; }
 
 .itemmagic {
   font-size: 11px;
