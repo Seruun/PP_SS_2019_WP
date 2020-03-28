@@ -474,6 +474,8 @@ p.listitemrow a:after {
   margin-top: 40px; }
 
 .framechattextbg {
+  margin-left: 30px;
+  margin-top: 10px;
   background-color: #f1f1f1; }
 
 /* Chat */
