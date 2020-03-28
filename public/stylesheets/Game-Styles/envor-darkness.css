@@ -3518,7 +3518,8 @@ body {
 /* Table */
 table {
   border: 0;
-  border-collapse: collapse; }
+  border-collapse: collapse;
+  max-width: 90%; }
 
 .worldsay table tbody tr {
   background-color: green; }
