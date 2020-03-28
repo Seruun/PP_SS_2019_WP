@@ -3510,7 +3510,7 @@ table {
   border: 0;
   border-collapse: collapse; }
 
-p.worldsay {
+.worldsay table tbody tr {
   background-color: green; }
 
 /* Links */
