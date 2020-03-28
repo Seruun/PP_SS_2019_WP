@@ -3522,6 +3522,10 @@ table {
 .worldsay table tbody tr {
   background-color: green; }
 
+tbody {
+  background-color: transparent;
+  border: 1px solid #999999; }
+
 /* Links */
 a {
   text-decoration: none;

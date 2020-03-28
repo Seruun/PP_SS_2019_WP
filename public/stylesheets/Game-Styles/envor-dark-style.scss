@@ -38,6 +38,11 @@ table {
   background-color: $green;
 }
 
+tbody {
+  background-color: transparent;
+  border: 1px solid $Outline-BG;
+}
+
 /* Links */
 a {
   text-decoration: none;
