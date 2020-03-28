@@ -469,6 +469,10 @@ p.listitemrow a:after {
 .framemainbg, .frameitembg, .framemapbg, .framemenubg {
   background-color: transparent; }
 
+.framemainbg {
+  margin-left: 100px;
+  margin-top: 40px; }
+
 .framechattextbg {
   background-color: #f1f1f1; }
 
