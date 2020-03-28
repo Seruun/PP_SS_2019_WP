@@ -467,12 +467,11 @@ p.listitemrow a:after {
   background-size: contain; }
 
 .framemainbg {
-  background-color: #525252;
+  background-image: url(img/dark-stone.jpg);
   margin: 11px; }
 
 .frameitembg {
   margin: 10px;
-  background-color: #525252;
   background-image: url(img/dark-stone.jpg);
   background-attachment: fixed; }
 
@@ -3553,6 +3552,9 @@ h1 {
 
 .small {
   font-size: 10px; }
+
+#phasetext.small {
+  color: black !important; }
 
 /* Colors */
 .white {
