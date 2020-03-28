@@ -217,6 +217,223 @@ span[title*="()"] {
 .fast_spell_set:after {
   content: "."; }
 
+/* SHORTINV */
+/* verkürztes Inventar */
+p.listitemrow {
+  position: relative;
+  font-size: 0px; }
+
+p.listitemrow a[href*="action=activate"] {
+  height: 12px;
+  font-size: 12px;
+  display: inline-block;
+  margin-left: 5px; }
+
+p.listitemrow b {
+  font-size: 12px;
+  color: black; }
+
+.itemamount {
+  font-size: 11px;
+  margin-right: 3px;
+  font-weight: bold;
+  color: #600; }
+
+.itemmagic {
+  font-size: 11px;
+  margin-left: 3px;
+  color: green;
+  font-weight: bold; }
+
+.itemequipped {
+  color: #d20000 !important;
+  font-weight: bold; }
+
+.iteminventorypics {
+  display: none; }
+
+body.frameitembg div img {
+  display: none; }
+
+p.listitemrow span.medium {
+  font-size: 10px; }
+
+p.listitemrow span.medium a {
+  font-size: 9px;
+  height: 9px; }
+
+p.listitemrow a {
+  font-size: 10px;
+  height: 10px; }
+
+p.listitemrow a:after {
+  content: " "; }
+
+#filterrow {
+  padding: 2px;
+  padding-left: 5px;
+  background-image: none;
+  background-color: #ffe1e1; }
+
+#filterrow b {
+  font-size: 10px; }
+
+#filterrow:before {
+  color: #e5e5e5; }
+
+/* Charakter-Info verkÃ¼rzen */
+.frameitembg p.listrow[id^="listrow_"]:not(#listrow_status) {
+  white-space: nowrap;
+  overflow: hidden;
+  max-width: 260px; }
+
+#listrow_special {
+  background-color: transparent;
+  border: medium none;
+  display: block;
+  overflow: hidden;
+  position: absolute;
+  right: 11px;
+  margin-top: -17px;
+  width: 30px; }
+
+.listrow {
+  background-color: #e5e5e5;
+  padding: 1px; }
+
+#listrow_attackp .valueincreased {
+  padding-right: 1000px; }
+
+#listrow_attackw, #listrow_defensew {
+  right: 5px;
+  font-size: 0;
+  font-weight: bold;
+  background-color: transparent;
+  margin-top: -17px;
+  max-width: 200px;
+  position: absolute; }
+
+#listrow_lifep > b, #listrow_int > b, #listrow_attackp > b, #listrow_defensep > b, #listrow_ring > b {
+  display: none; }
+
+#listrow_attackw a {
+  font-size: 0; }
+
+#listrow_attackw a:before {
+  content: "A-Waffe";
+  font-size: 11px; }
+
+#listrow_attackp:before {
+  content: "A: ";
+  font-weight: bold;
+  padding-left: 0; }
+
+#listrow_defensew a {
+  font-size: 0; }
+
+#listrow_defensew a:before {
+  content: "V-Waffe";
+  font-size: 11px; }
+
+#listrow_defensep:before {
+  content: "V: ";
+  font-weight: bold;
+  padding-left: 0; }
+
+#listrow_defensew:after, #listrow_attackw:after, #listrow_ring:after {
+  margin-right: 5px; }
+
+#listrow_ring:before {
+  content: "F: ";
+  font-weight: bold;
+  padding-left: 0; }
+
+#listrow_int:before {
+  content: "Int: ";
+  font-weight: bold;
+  padding-left: 10px; }
+
+#listrow_int span {
+  position: absolute;
+  right: 11px; }
+
+#listrow_int span:after {
+  color: black;
+  font-weight: bold;
+  content: " Speed"; }
+
+#listrow_int {
+  background-color: transparent;
+  max-width: 0 !important;
+  margin-top: -17px;
+  text-align: right !important; }
+
+#listrow_money {
+  margin-top: -35px;
+  margin-bottom: 17px; }
+
+#listrow_lifep:before {
+  content: "LP: ";
+  font-weight: bold; }
+
+#listrow_lifep {
+  margin-top: 18px !important; }
+
+#listrow_char_mission {
+  font-size: 12px;
+  margin-top: -15px;
+  position: absolute;
+  right: 10px; }
+
+#listrow_char_mission a[href*="ability"] {
+  height: 12px;
+  width: 0;
+  color: transparent;
+  font-size: 0.001% !important;
+  margin-top: 2px !important; }
+
+#listrow_char_mission a[href*="ability"]:before {
+  content: "Charas ";
+  color: #600 !important;
+  font-size: 12px; }
+
+#listrow_char_mission a[href*="ability"] span {
+  border: 2px solid transparent !important;
+  margin-top: -8px; }
+
+#listrow_char_mission a:last-of-type, #listrow_aka_battlep b:last-of-type:not(:first-of-type) {
+  color: transparent;
+  font-size: 0.001%; }
+
+#listrow_char_mission a:last-of-type:before {
+  color: #600;
+  content: "Auftrag";
+  font-size: 12px;
+  padding-right: 5px; }
+
+#listrow_aka_battlep b:first-of-type:not(:last-of-type) {
+  display: inline-block;
+  height: 10px;
+  margin-right: 3px;
+  overflow: hidden;
+  width: 18px; }
+
+#listrow_aka_battlep b:last-of-type:not(:first-of-type):before {
+  color: black;
+  content: "KP: ";
+  font-size: 10px;
+  font-weight: bold; }
+
+#listrow_aka_battlep b:first-of-type:not(:last-of-type):after {
+  content: ":";
+  font-weight: bold;
+  left: 29px;
+  position: absolute; }
+
+.valueincreased {
+  color: #444 !important;
+  font-weight: bold; }
+
 /* Chat */
 /* Colors */
 /* BG Colors */
@@ -431,7 +648,7 @@ span[title*="()"] {
   right: 2px;
   top: 2px; }
 
-/* lebende Ã„ste */
+/* lebende Ãste */
 #mapx-599y-448 a:after {
   content: url(img/bignpc.png);
   width: 5px;
@@ -538,7 +755,7 @@ span[title*="()"] {
   right: 2px;
   top: 2px; }
 
-/* untote BÃ¼rger */
+/* untote Bürger */
 #mapx80y87 a:after {
   content: url(img/bignpc.png);
   width: 5px;
