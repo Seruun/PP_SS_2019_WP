@@ -4,19 +4,19 @@
 /* Forms */
 .input {
   font-size: $font-12;
-  background-color: $input-BG;
+  background-color: transparent;
   border: 1px solid $black;
-  color: $chat-text;
+  color: $v-bright-BG;
 }
 
 .submitsagen {
   font-size: $font-10;
   font-weight: bold;
-  color: $chat-text;
+  color: $v-bright-BG;
   width: 80px;
   margin-left: 1px;
   margin-right: 2px;
-  background-color: $input-BG;
+  background-color: transparent;
 }
 
 .submitschreien {
@@ -25,7 +25,7 @@
   color: $scream;
   width: 80px;
   margin-right: 2px;
-  background-color: $input-BG;
+  background-color: transparent;
 }
 
 .submitclan {
@@ -34,7 +34,7 @@
   color: $clan;
   width: 80px;
   margin-right: 2px;
-  background-color: $input-BG;
+  background-color: transparent;
 }
 
 .submitgroup {
@@ -43,7 +43,7 @@
   color: $group;
   width: 80px;
   margin-right: 2px;
-  background-color: $input-BG;
+  background-color: transparent;
 }
 
 .submitworldsay {
@@ -52,7 +52,7 @@
   color: $chat-text;
   width: 80px;
   margin-right: 2px;
-  background-color: $input-BG;
+  background-color: transparent;
 }
 
 .submitwhisper {
@@ -61,7 +61,7 @@
   color: $whisper;
   width: 80px;
   margin-right: 2px;
-  background-color: $input-BG;
+  background-color: transparent;
 }
 
 .submitglobalchat {
@@ -70,20 +70,20 @@
   color: $global;
   width: 80px;
   margin-right: 2px;
-  background-color: $input-BG;
+  background-color: transparent;
 }
 
 .textarea {
   font-size: $font-12;
-  color: $text;
-  background-color: $input-BG;
+  color: $v-bright-BG;
+  background-color: transparent;
   border: 1px solid $black;
 }
 
 .select {
   font-size: $font-11;
-  color: $text;
-  background-color: $input-BG;
+  color: $v-bright-BG;
+  background-color: transparent;
   height: 30px;
 }
 
@@ -94,7 +94,7 @@
 
 /* Text Classes */
 .chattext {
-  color: $primary-color;
+  color: $v-bright-BG;
   font-size: $font-12;
   font-family: $font-family;
 }
