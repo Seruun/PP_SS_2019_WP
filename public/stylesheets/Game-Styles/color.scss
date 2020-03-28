@@ -4,7 +4,15 @@ $link-visited  : #9400d3;
 $link-active   : #3300ff;
 $link-hover    : #ffb90f;
 
-$background-color : #ffffff;
-
 $white : white;
+$black : black;
+$brown : brown;
 
+/* BG Colors */
+$BG-color     : $white;
+$Divider-BG   : #555555;
+$Outline-BG   : #999999;
+$menu-BG      : #f1f1f1;
+$bright-BG    : #e5e5e5;
+$v-bright-BG  : $menu-BG;
+$r-bright-BG  : #fafafa;

@@ -1,3 +1,4 @@
+/* BG Colors */
 /* Freewar Style - Envor - Darkness Layout - (c) Seruun - Welt 1 */
 /* Created 12.03.2020 - Last Modified 28.03.2020 -> Seruun - Welt 1 */
 /* Global */
@@ -13,7 +14,7 @@ p {
 
 /* Body */
 body {
-  background-color: #ffffff; }
+  background-color: white; }
 
 /* Table */
 table {
@@ -58,5 +59,36 @@ h1 {
 
 .fontcolor {
   color: #404040; }
+
+/* BG Colors */
+.body {
+  background-color: white; }
+
+.divider {
+  background-color: #555555; }
+
+.outline {
+  background-color: #999999; }
+
+.menubg {
+  background-color: #f1f1f1; }
+
+.brightbg {
+  background-color: #e5e5e5; }
+
+.verybrightbg {
+  background-color: #f1f1f1; }
+
+.reallybrightbg {
+  background-color: #f1f1f1; }
+
+.whitebg {
+  background-color: white; }
+
+.blackbg {
+  background-color: black; }
+
+.brownbg {
+  background-color: brown; }
 
 /*# sourceMappingURL=envor-darkness.css.map */

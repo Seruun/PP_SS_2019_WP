@@ -21,7 +21,7 @@ p {
 
 /* Body */
 body {
-  background-color: $background-color;
+  background-color: $BG-color;
 }
 
 /* Table */
@@ -78,4 +78,45 @@ h1 {
 
 .fontcolor {
   color: $font-color;
+}
+
+/* BG Colors */
+.body {
+  background-color: $white;
+}
+
+.divider {
+  background-color: $Divider-BG;
+}
+
+.outline {
+  background-color: $Outline-BG;
+}
+
+.menubg {
+  background-color: $menu-BG;
+}
+
+.brightbg {
+  background-color: $bright-BG;
+}
+
+.verybrightbg {
+  background-color: $v-bright-BG;
+}
+
+.reallybrightbg {
+  background-color: $v-bright-BG;
+}
+
+.whitebg {
+  background-color: $white;
+}
+
+.blackbg {
+  background-color: $black;
+}
+
+.brownbg {
+  background-color: $brown;
 }
