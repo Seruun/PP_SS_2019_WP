@@ -88,32 +88,32 @@
 /* Text Classes */
 .chattext {
   color: #f1f1f1;
-  font-size: 12px;
+  font-size: 14px;
   font-family: Arial, "Comic Sans MS", Verdana; }
 
 .chattextscream {
   color: #0000cd;
-  font-size: 12px;
+  font-size: 14px;
   font-family: Arial, "Comic Sans MS", Verdana; }
 
 .chattextclan {
   color: #d20000;
-  font-size: 12px;
+  font-size: 14px;
   font-family: Arial, "Comic Sans MS", Verdana; }
 
 .chattextgroup {
   color: #fc7410;
-  font-size: 12px;
+  font-size: 14px;
   font-family: Arial, "Comic Sans MS", Verdana; }
 
 .chattextwhisper {
   color: #006600;
-  font-size: 12px;
+  font-size: 14px;
   font-family: Arial, "Comic Sans MS", Verdana; }
 
 .chattextinfo {
   color: black;
-  font-size: 13px;
+  font-size: 14px;
   font-family: Arial, "Comic Sans MS", Verdana;
   font-style: italic;
   background-color: #8470ff; }
