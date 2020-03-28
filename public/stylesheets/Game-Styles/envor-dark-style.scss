@@ -16,7 +16,7 @@ p, ul, ol, div, td, span, layer, table, body {
   font-family: $font-family;
 }
 
-p, b {
+p {
   color: $white;
   margin: 0;
   padding: 0;
@@ -36,6 +36,10 @@ table {
 
 .worldsay table tbody tr {
   background-color: $green;
+}
+
+span.small {
+  color: $white;
 }
 
 tbody {

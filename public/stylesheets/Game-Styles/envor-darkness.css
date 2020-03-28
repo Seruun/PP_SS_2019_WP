@@ -3505,7 +3505,7 @@ p, ul, ol, div, td, span, layer, table, body {
   font-size: 12px;
   font-family: Arial Black, "Comic Sans MS", Verdana; }
 
-p, b {
+p {
   color: white;
   margin: 0;
   padding: 0; }
@@ -3522,6 +3522,9 @@ table {
 
 .worldsay table tbody tr {
   background-color: green; }
+
+span.small {
+  color: white; }
 
 tbody {
   background-color: transparent;
