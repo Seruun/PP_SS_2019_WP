@@ -466,6 +466,10 @@ p.listitemrow a:after {
   border-bottom: 1px solid black;
   background-size: contain; }
 
+.framemainbg {
+  background-color: #ddd;
+  margin: 11px; }
+
 /* Chat */
 /* Colors */
 /* BG Colors */
@@ -973,6 +977,2191 @@ p.listitemrow a:after {
   width: 5px;
   position: absolute;
   right: 2px;
+  top: 2px; }
+
+/* NO-NPC  Markierung der Felder ohne NPCs */
+#mapx84y100 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx84y102 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx86y102 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx89y102 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx87y103 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx89y104 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx88y105 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx104y123 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx107y124 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx104y125 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx82y105 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx85y106 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx86y107 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx85y108 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx86y109 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx125y88 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx80y91 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx81y83 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx81y84 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx82y82 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx82y84 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx82y91 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx83y81 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx83y83 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx84y83 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx85y90 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx86y85 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx86y87 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx86y90 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx87y87 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx65y90 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx66y90 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx67y90 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx68y90 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx61y94 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx68y94 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx62y95 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx68y95 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx68y96 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx63y97 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx117y120 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx58y95 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx56y100 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx60y100 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx84y97 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx87y97 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx100y88 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx106y90 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx109y91 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx100y94 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx104y94 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx107y94 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx106y95 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx97y96 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx108y96 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx108y97 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx1010y1004 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx1006y1005 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx1007y1006 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx81y96 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx78y97 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx76y98 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx80y99 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx74y101 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx77y101 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx83y102 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx76y103 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx79y103 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx76y104 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx94y90 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx94y93 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx90y88 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx88y89 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx89y89 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx92y89 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx87y90 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx92y92 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx73y96 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx72y98 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx71y101 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx70y102 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx90y113 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx93y113 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx90y115 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx88y117 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx88y118 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx89y118 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx66y85 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx62y87 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx98y98 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx96y99 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx97y99 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx99y99 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx100y99 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx99y100 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx100y100 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx103y100 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx96y101 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx97y101 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx98y101 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx96y102 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx97y102 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx98y102 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx101y102 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx98y103 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx99y103 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx102y103 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx58y106 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx122y96 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx114y98 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx113y99 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx117y100 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx119y100 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx116y101 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx117y106 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx118y106 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx117y107 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx122y113 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx116y115 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx120y115 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx116y116 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx118y116 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx120y116 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx121y116 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx114y117 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx115y117 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx117y117 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx118y117 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx44y76 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx49y83 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx90y82 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx90y84 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx96y84 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx92y87 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx92y88 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx57y85 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx138y114 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx134y115 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx133y116 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx132y117 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx138y118 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx89y111 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx84y112 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx87y112 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx86y113 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx78y115 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx77y116 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx79y117 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx80y117 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx82y117 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx84y117 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx83y118 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx80y119 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx96y117 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx97y112 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx99y113 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx103y119 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx104y114 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx104y117 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx499y53 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx503y53 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx501y54 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx506y55 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx507y55 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx500y56 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx501y57 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx507y57 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx508y57 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx100y104 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx104y104 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx105y106 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx106y106 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx113y106 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx100y107 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx102y107 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx105y108 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx105y111 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx110y111 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx102y112 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx108y113 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx112y113 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx114y114 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx105y115 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx110y115 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx114y116 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx79y105 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx79y106 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx76y110 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx79y110 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx84y110 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx96y106 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx96y107 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx97y107 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx92y108 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx95y108 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx94y109 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx96y109 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx98y109 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx96y110 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx94y111 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx98y111 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx95y112 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx72y103 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx74y105 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx72y107 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx74y107 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx129y85 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx87y94 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx86y95 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx89y95 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx90y95 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx85y96 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx77y87 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx78y88 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx77y89 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx78y89 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx71y90 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx73y90 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx75y90 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx76y91 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx72y92 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx75y92 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx74y94 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx76y94 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx75y95 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx76y95 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx77y95 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx75y96 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx76y96 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx76y97 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx77y97 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx91y95 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx89y97 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx60y111 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx62y113 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx57y115 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx65y109 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx68y109 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx65y112 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx68y116 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx69y116 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx104y100 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx105y100 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx109y100 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx112y91 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx118y91 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx122y91 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx110y93 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx113y93 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx119y93 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx115y94 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx117y94 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx111y96 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx112y97 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx97y90 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx97y91 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx98y91 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx74y83 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx75y83 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx75y86 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx75y87 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx82y92 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx80y94 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx83y94 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx92y99 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx93y101 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx94y100 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx94y102 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx94y103 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx95y104 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx111y82 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx110y83 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx111y83 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx112y83 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx106y86 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx52y75 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx51y75 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx51y77 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx58y70 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx86y78 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx87y76 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx41y98 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx42y98 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx43y97 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx50y99 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx51y101 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx47y101 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx104y131 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx103y132 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx105y132 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx103y133 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx104y133 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx105y133 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx106y133 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx107y133 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx101y134 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx104y134 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx105y134 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx107y134 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx102y135 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx101y135 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx184y139 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx186y136 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx191y129 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx191y136 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx198y136 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx199y133 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx252y96 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx258y96 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx259y98 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx147y118 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
+  top: 2px; }
+
+#mapx78y93 a:after {
+  content: url(img/nonpc.png);
+  width: 5px;
+  position: absolute;
+  left: 2px;
   top: 2px; }
 
 /* Global */
