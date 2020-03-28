@@ -46,3 +46,87 @@
   background-color: $input-BG;
 }
 
+.submitworldsay {
+  font-size: $font-10;
+  font-weight: bold;
+  color: $chat-text;
+  width: 80px;
+  margin-right: 2px;
+  background-color: $input-BG;
+}
+
+.submitwhisper {
+  font-size: $font-10;
+  font-weight: bold;
+  color: $whisper;
+  width: 80px;
+  margin-right: 2px;
+  background-color: $input-BG;
+}
+
+.submitglobalchat {
+  font-size: $font-10;
+  font-weight: bold;
+  color: $global;
+  width: 80px;
+  margin-right: 2px;
+  background-color: $input-BG;
+}
+
+.textarea {
+  font-size: $font-12;
+  color: $text;
+  background-color: $input-BG;
+  border: 1px solid $black;
+}
+
+.select {
+  font-size: $font-11;
+  color: $text;
+  background-color: $input-BG;
+  height: 30px;
+}
+
+/* Bannerrad */
+.bannerrad {
+  border: 1px solid $banner;
+}
+
+/* Text Classes */
+.chattext {
+  color: $primary-color;
+  font-size: $font-12;
+  font-family: $font-family;
+}
+
+.chattextscream {
+  color: $scream;
+  font-size: $font-12;
+  font-family: $font-family;
+}
+
+.chattextclan {
+  color: $clan;
+  font-size: $font-12;
+  font-family: $font-family;
+}
+
+.chattextgroup {
+  color: $group;
+  font-size: $font-12;
+  font-family: $font-family;
+}
+
+.chattextwhisper {
+  color: $whisper;
+  font-size: $font-12;
+  font-family: $font-family;
+}
+
+.chattextinfo {
+  color: $black;
+  font-size: $font-13;
+  font-family: $font-family;
+  font-style: italic;
+  background-color: $info-BG;
+}

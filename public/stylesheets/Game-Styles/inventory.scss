@@ -1,0 +1,15 @@
+@import "color";
+@import "fonts";
+
+/* Health */
+.healthok {
+  color: $ok-color;
+}
+
+.healthmed {
+  color: $med-color;
+}
+
+.healthcritical {
+  color: $crit-color;
+}

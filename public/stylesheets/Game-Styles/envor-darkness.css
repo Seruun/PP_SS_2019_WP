@@ -1,6 +1,138 @@
-/* BG Colors */
 /* Freewar Style - Envor - Darkness Layout - (c) Seruun - Welt 1 */
 /* Created 12.03.2020 - Last Modified 28.03.2020 -> Seruun - Welt 1 */
+/* Import */
+/* Chat */
+/* Colors */
+/* BG Colors */
+/* Forms */
+.input {
+  font-size: 12px;
+  background-color: #787878;
+  border: 1px solid black;
+  color: #ffe1e1; }
+
+.submitsagen {
+  font-size: 10px;
+  font-weight: bold;
+  color: #ffe1e1;
+  width: 80px;
+  margin-left: 1px;
+  margin-right: 2px;
+  background-color: #787878; }
+
+.submitschreien {
+  font-size: 10px;
+  font-weight: bold;
+  color: #0099cc;
+  width: 80px;
+  margin-right: 2px;
+  background-color: #787878; }
+
+.submitclan {
+  font-size: 10px;
+  font-weight: bold;
+  color: #d20000;
+  width: 80px;
+  margin-right: 2px;
+  background-color: #787878; }
+
+.submitgroup {
+  font-size: 10px;
+  font-weight: bold;
+  color: #fc7410;
+  width: 80px;
+  margin-right: 2px;
+  background-color: #787878; }
+
+.submitworldsay {
+  font-size: 10px;
+  font-weight: bold;
+  color: #ffe1e1;
+  width: 80px;
+  margin-right: 2px;
+  background-color: #787878; }
+
+.submitwhisper {
+  font-size: 10px;
+  font-weight: bold;
+  color: #006600;
+  width: 80px;
+  margin-right: 2px;
+  background-color: #787878; }
+
+.submitglobalchat {
+  font-size: 10px;
+  font-weight: bold;
+  color: #191970;
+  width: 80px;
+  margin-right: 2px;
+  background-color: #787878; }
+
+.textarea {
+  font-size: 12px;
+  color: #8b8682;
+  background-color: #787878;
+  border: 1px solid black; }
+
+.select {
+  font-size: 11px;
+  color: #8b8682;
+  background-color: #787878;
+  height: 30px; }
+
+/* Bannerrad */
+.bannerrad {
+  border: 1px solid #c85424; }
+
+/* Text Classes */
+.chattext {
+  color: #525252;
+  font-size: 12px;
+  font-family: Arial, "Comic Sans MS", Verdana; }
+
+.chattextscream {
+  color: #0099cc;
+  font-size: 12px;
+  font-family: Arial, "Comic Sans MS", Verdana; }
+
+.chattextclan {
+  color: #d20000;
+  font-size: 12px;
+  font-family: Arial, "Comic Sans MS", Verdana; }
+
+.chattextgroup {
+  color: #fc7410;
+  font-size: 12px;
+  font-family: Arial, "Comic Sans MS", Verdana; }
+
+.chattextwhisper {
+  color: #006600;
+  font-size: 12px;
+  font-family: Arial, "Comic Sans MS", Verdana; }
+
+.chattextinfo {
+  color: black;
+  font-size: 13px;
+  font-family: Arial, "Comic Sans MS", Verdana;
+  font-style: italic;
+  background-color: #8470ff; }
+
+/* Chat */
+/* Colors */
+/* BG Colors */
+/* Health */
+.healthok {
+  color: #32cd32; }
+
+.healthmed {
+  color: #ee9a00; }
+
+.healthcritical {
+  color: #ee0000; }
+
+/* Chat */
+/* Colors */
+/* BG Colors */
 /* Global */
 p, ul, ol, div, td, span, layer, table, body {
   color: #525252;
