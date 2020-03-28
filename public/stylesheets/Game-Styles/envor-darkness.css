@@ -3502,7 +3502,7 @@ p.listitemrow a:after {
 /* Global */
 p, ul, ol, div, td, span, layer, table, body {
   color: white;
-  font-size: 12px;
+  font-size: 14px;
   font-family: Arial Black, "Comic Sans MS", Verdana; }
 
 p {
@@ -3527,7 +3527,7 @@ span.small {
   color: white; }
 
 .ukbar, tbody {
-  background-color: transparent;
+  background: transparent;
   border: 1px solid #999999; }
 
 table#fastspell > tbody,

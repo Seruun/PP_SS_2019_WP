@@ -12,7 +12,7 @@
 /* Global */
 p, ul, ol, div, td, span, layer, table, body {
   color: $white;
-  font-size: $font-12;
+  font-size: $font-14;
   font-family: $font-family;
 }
 
@@ -43,7 +43,7 @@ span.small {
 }
 
 .ukbar, tbody {
-  background-color: transparent;
+  background: transparent;
   border: 1px solid $Outline-BG;
 }
 
