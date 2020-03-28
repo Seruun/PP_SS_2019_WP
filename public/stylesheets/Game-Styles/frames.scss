@@ -22,8 +22,8 @@
 }
 
 .framebannerbg {
-  // background-color: $primary-color;
   background-image: url(img/envor.png);
+  background-color: transparent;
   background-position: top center;
   background-repeat: no-repeat;
   border-bottom: 1px solid $black;
@@ -32,4 +32,8 @@
 
 .framemainbg, .frameitembg, .framemapbg, .framemenubg {
   background-color: transparent;
+}
+
+.framechattextbg {
+  background-color: $v-bright-BG;
 }
