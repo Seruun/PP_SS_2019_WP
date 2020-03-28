@@ -431,7 +431,7 @@ p.listitemrow a:after {
   position: absolute; }
 
 .valueincreased {
-  color: #444 !important;
+  color: white !important;
   font-weight: bold; }
 
 /* Chat */
