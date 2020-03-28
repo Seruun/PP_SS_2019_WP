@@ -12,7 +12,7 @@
 /* Global */
 p, ul, ol, div, td, span, layer, table, body {
   color: $white;
-  font-size: $font-14;
+  font-size: $font-12;
   font-family: $font-family;
 }
 
@@ -59,6 +59,7 @@ table#fastspell7 > tbody,
 table#fastspell8 > tbody,
 table#fastspell9 > tbody {
   border: 0;
+  box-shadow: none;
 }
 
 /* Links */
