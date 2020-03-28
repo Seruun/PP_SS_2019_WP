@@ -1,0 +1,22 @@
+@import "color";
+@import "fonts";
+
+/* Frames */
+/* Freewar - Zocker EU Grafiken */
+.framebannerbg:before {
+  top: 0;
+  left: 0;
+  position: absolute;
+  content: url("https://freewar.zocker.eu/grafik.php");
+  width: 350px;
+  height: 75px;
+}
+
+.framebannerbg:after {
+  top: 0;
+  left: 1300px;
+  position: absolute;
+  content: url("https://freewar.zocker.eu/vvvg.php");
+  width: 350px;
+  height: 75px;
+}

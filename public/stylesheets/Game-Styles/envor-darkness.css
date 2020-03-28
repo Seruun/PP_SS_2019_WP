@@ -117,6 +117,9 @@
   font-style: italic;
   background-color: #8470ff; }
 
+.chatpics {
+  display: none; }
+
 /* Chat */
 /* Colors */
 /* BG Colors */
@@ -133,6 +136,27 @@
 /* Chat */
 /* Colors */
 /* BG Colors */
+/* Chat */
+/* Colors */
+/* BG Colors */
+/* Frames */
+/* Freewar - Zocker EU Grafiken */
+.framebannerbg:before {
+  top: 0;
+  left: 0;
+  position: absolute;
+  content: url("https://freewar.zocker.eu/grafik.php");
+  width: 350px;
+  height: 75px; }
+
+.framebannerbg:after {
+  top: 0;
+  left: 1300px;
+  position: absolute;
+  content: url("https://freewar.zocker.eu/vvvg.php");
+  width: 350px;
+  height: 75px; }
+
 /* Global */
 p, ul, ol, div, td, span, layer, table, body {
   color: #525252;
