@@ -30,24 +30,6 @@
   background-size: contain;
 }
 
-.framemainbg {
-  background-image: url(img/dark-stone.jpg);
-  margin: 11px;
-}
-
-.frameitembg {
-  margin: 10px;
-  background-image: url(img/dark-stone.jpg);
-  background-attachment: fixed;
-}
-
-.framemapbg {
-  margin: 10px;
-  margin-top: 5px;
-  // background-color: $grey;
-  background-image: url(img/dark-stone.jpg);
-}
-
-.framemenubg {
-  background-image: url(img/dark-stone.jpg);
+.framemainbg, .frameitembg, .framemapbg, .framemenubg {
+  background-color: transparent;
 }
