@@ -39,7 +39,10 @@
 }
 
 .framechattextbg {
+  background-image: url(img/dark-stone.jpg);
+  background-size: cover;
   margin-left: 30px;
   margin-top: 10px;
   background-color: $v-bright-BG;
+  opacity: 0.7;
 }
