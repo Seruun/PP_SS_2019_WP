@@ -43,7 +43,16 @@ tbody {
   border: 1px solid $Outline-BG;
 }
 
-table#fastspell > tbody {
+table#fastspell > tbody,
+table#fastspell1 > tbody,
+table#fastspell2 > tbody,
+table#fastspell3 > tbody,
+table#fastspell4 > tbody,
+table#fastspell5 > tbody,
+table#fastspell6 > tbody,
+table#fastspell7 > tbody,
+table#fastspell8 > tbody,
+table#fastspell9 > tbody {
   border: 0;
 }
 
