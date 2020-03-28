@@ -464,7 +464,7 @@ p.listitemrow a:after {
 .framebannerbg {
   background: url(img/envor.png) top center no-repeat, url(img/dark-stone.jpg);
   border-bottom: 1px solid black;
-  background-size: contain; }
+  background-size: contain, cover; }
 
 .framemainbg, .frameitembg, .framemapbg, .framemenubg {
   background-color: transparent; }
@@ -3503,7 +3503,7 @@ p {
 /* Body */
 body {
   background-image: url(img/dark-stone.jpg);
-  background-size: contain; }
+  background-size: cover; }
 
 /* Table */
 table {
