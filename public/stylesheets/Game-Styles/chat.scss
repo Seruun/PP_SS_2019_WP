@@ -1,0 +1,48 @@
+@import "color";
+@import "fonts";
+
+/* Forms */
+.input {
+  font-size: $font-12;
+  background-color: $input-BG;
+  border: 1px solid $black;
+  color: $chat-text;
+}
+
+.submitsagen {
+  font-size: $font-10;
+  font-weight: bold;
+  color: $chat-text;
+  width: 80px;
+  margin-left: 1px;
+  margin-right: 2px;
+  background-color: $input-BG;
+}
+
+.submitschreien {
+  font-size: $font-10;
+  font-weight: bold;
+  color: $scream;
+  width: 80px;
+  margin-right: 2px;
+  background-color: $input-BG;
+}
+
+.submitclan {
+  font-size: $font-10;
+  font-weight: bold;
+  color: $clan;
+  width: 80px;
+  margin-right: 2px;
+  background-color: $input-BG;
+}
+
+.submitgroup {
+  font-size: $font-10;
+  font-weight: bold;
+  color: $group;
+  width: 80px;
+  margin-right: 2px;
+  background-color: $input-BG;
+}
+
