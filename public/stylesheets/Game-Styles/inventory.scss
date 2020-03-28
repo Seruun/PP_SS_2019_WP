@@ -96,3 +96,24 @@ span[title*="()"] {
   text-decoration: blink;
   font-weight: bold;
 }
+
+/* Item Filter */
+.itemamount_zero ~ .itemname {
+  font-size: $font-12;
+}
+
+/* Tausenderpunkte XP */
+.hidden1000sep {
+  display: inline !important;
+  color: $primary-color;
+}
+
+/* Seismic Symbol in der Mitte */
+.seismic {
+  transform: translate(16px, 0px) !important
+}
+
+/* Punkt hinterm Schnellzauberset */
+.fast_spell_set:after {
+  content: "."
+}
