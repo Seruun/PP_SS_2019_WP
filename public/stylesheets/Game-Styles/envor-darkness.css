@@ -298,7 +298,7 @@ p.listitemrow a:after {
   width: 30px; }
 
 .listrow {
-  background-color: #525252;
+  background-color: transparent;
   padding: 1px; }
 
 #listrow_attackp .valueincreased {
@@ -459,7 +459,6 @@ p.listitemrow a:after {
   height: 75px; }
 
 .framebannerbg {
-  background-color: #525252;
   background-image: url(img/envor.png);
   background-position: top center;
   background-repeat: no-repeat;
@@ -478,7 +477,6 @@ p.listitemrow a:after {
 .framemapbg {
   margin: 10px;
   margin-top: 5px;
-  background-color: grey;
   background-image: url(img/dark-stone.jpg); }
 
 .framemenubg {
@@ -3514,7 +3512,7 @@ p {
 
 /* Body */
 body {
-  background-color: white; }
+  background-image: url(img/envor.png); }
 
 /* Table */
 table {
