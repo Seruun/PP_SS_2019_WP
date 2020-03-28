@@ -301,6 +301,7 @@ p.listitemrow a:after {
   width: 30px; }
 
 .listrow {
+  color: white;
   background-color: transparent;
   padding: 1px; }
 
