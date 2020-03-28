@@ -37,4 +37,26 @@ a:active {
 a:hover {
   color: #ffb90f; }
 
+/* Fonts */
+h1, .medium, .small {
+  color: #404040; }
+
+h1 {
+  font-size: 12px;
+  font-weight: bold;
+  margin-bottom: 0; }
+
+.medium {
+  font-size: 11px; }
+
+.small {
+  font-size: 10px; }
+
+/* Colors */
+.white {
+  color: white; }
+
+.fontcolor {
+  color: #404040; }
+
 /*# sourceMappingURL=envor-darkness.css.map */
