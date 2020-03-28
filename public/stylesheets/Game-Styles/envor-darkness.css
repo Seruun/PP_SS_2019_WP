@@ -51,7 +51,7 @@
   color: #ffe1e1;
   width: 80px;
   margin-right: 2px;
-  background-color: green; }
+  background-color: transparent; }
 
 .submitwhisper {
   font-size: 10px;
@@ -3509,6 +3509,9 @@ body {
 table {
   border: 0;
   border-collapse: collapse; }
+
+p.worldsay {
+  background-color: green; }
 
 /* Links */
 a {
