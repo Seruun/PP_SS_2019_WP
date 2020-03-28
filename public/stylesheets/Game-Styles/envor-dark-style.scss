@@ -43,6 +43,10 @@ tbody {
   border: 1px solid $Outline-BG;
 }
 
+table#fastspell > tbody {
+  border: 0;
+}
+
 /* Links */
 a {
   text-decoration: none;

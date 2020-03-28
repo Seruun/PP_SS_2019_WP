@@ -3526,6 +3526,9 @@ tbody {
   background-color: transparent;
   border: 1px solid #999999; }
 
+table#fastspell > tbody {
+  border: 0; }
+
 /* Links */
 a {
   text-decoration: none;
