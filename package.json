@@ -5,6 +5,7 @@
     "main": "index.js",
     "scripts": {
         "ubuntu-update": "apt update && apt upgrade -y && apt autoclean -y && apt autoremove -y",
+        "style": "git reset --hard && git pull && npm install --unsafe-perm && pm2 reload all",
         "website": "git reset --hard && git pull && npm install --unsafe-perm && pm2 reload all && npm run ubuntu-update"
     },
     "repository": {
