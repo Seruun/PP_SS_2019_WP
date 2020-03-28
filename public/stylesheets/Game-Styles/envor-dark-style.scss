@@ -29,3 +29,25 @@ table {
   border: 0px;
   border-collapse: collapse;
 }
+
+/* Links */
+a {
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:link {
+  color: $link-color;
+}
+
+a:visited {
+  color: $link-visited;
+}
+
+a:active {
+  color: $link-active;
+}
+
+a:hover {
+  color: $link-hover;
+}

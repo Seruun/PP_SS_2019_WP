@@ -20,4 +20,21 @@ table {
   border: 0px;
   border-collapse: collapse; }
 
+/* Links */
+a {
+  text-decoration: none;
+  font-weight: bold; }
+
+a:link {
+  color: #b10e03; }
+
+a:visited {
+  color: #9400d3; }
+
+a:active {
+  color: #3300ff; }
+
+a:hover {
+  color: #ffb90f; }
+
 /*# sourceMappingURL=envor-darkness.css.map */
