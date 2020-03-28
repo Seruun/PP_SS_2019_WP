@@ -15,7 +15,7 @@
 .submitsagen {
   font-size: 12px;
   font-weight: bold;
-  color: #444;
+  color: black;
   width: 100px;
   margin-left: 1px;
   margin-right: 2px;
@@ -3505,7 +3505,7 @@ p, ul, ol, div, td, span, layer, table, body {
   font-size: 12px;
   font-family: Arial Black, "Comic Sans MS", Verdana; }
 
-p {
+p, b {
   color: white;
   margin: 0;
   padding: 0; }
