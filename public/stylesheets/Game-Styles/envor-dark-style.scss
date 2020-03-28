@@ -18,3 +18,14 @@ p {
   margin: 0;
   padding: 0;
 }
+
+/* Body */
+body {
+  background-color: $background-color;
+}
+
+/* Table */
+table {
+  border: 0px;
+  border-collapse: collapse;
+}

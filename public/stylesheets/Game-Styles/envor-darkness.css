@@ -11,4 +11,13 @@ p {
   margin: 0;
   padding: 0; }
 
+/* Body */
+body {
+  background-color: #ffffff; }
+
+/* Table */
+table {
+  border: 0px;
+  border-collapse: collapse; }
+
 /*# sourceMappingURL=envor-darkness.css.map */
