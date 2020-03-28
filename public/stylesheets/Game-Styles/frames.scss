@@ -31,13 +31,12 @@
 }
 
 .framemainbg {
-  background-color: $primary-color;
+  background-image: url(img/dark-stone.jpg);
   margin: 11px;
 }
 
 .frameitembg {
   margin: 10px;
-  background-color: $primary-color;
   background-image: url(img/dark-stone.jpg);
   background-attachment: fixed;
 }
