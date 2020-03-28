@@ -157,6 +157,13 @@
   width: 350px;
   height: 75px; }
 
+.framebannerbg {
+  background-color: #525252;
+  background-image: url(img/envor.png);
+  background-position: top center;
+  background-repeat: no-repeat;
+  border-bottom: 1px solid black; }
+
 /* Global */
 p, ul, ol, div, td, span, layer, table, body {
   color: #525252;

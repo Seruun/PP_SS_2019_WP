@@ -20,3 +20,11 @@
   width: 350px;
   height: 75px;
 }
+
+.framebannerbg {
+  background-color: $primary-color;
+  background-image: url(img/envor.png);
+  background-position: top center;
+  background-repeat: no-repeat;
+  border-bottom: 1px solid $black;
+}
