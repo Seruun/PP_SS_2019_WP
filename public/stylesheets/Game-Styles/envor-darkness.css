@@ -4067,8 +4067,8 @@ span.small {
 
 .ukbar, tbody {
   background: transparent !important;
-  border-radius: 0.25em;
-  box-shadow: 0 0 0 1px #999999; }
+  border-radius: 0.4em;
+  box-shadow: 0 0 0 4px #999999; }
 
 table#fastspell > tbody,
 table#fastspell1 > tbody,
