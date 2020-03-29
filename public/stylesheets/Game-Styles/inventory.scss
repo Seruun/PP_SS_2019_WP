@@ -387,3 +387,708 @@ p.listitemrow a:after {
   color: $white !important;
   font-weight: bold;
 }
+
+/* Verkaufbare Items */
+td.areadescription table b[onmouseover^='tt("alter Schuh"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("alter Tolloschein"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("altes Relikt"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Amulett der schwachen Beute"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Amulett der schwachen Feuersbrunst"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Amulett der schwachen Heilung"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Amulett der schwachen Zeitkontrolle"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Amulett des geringen Schutzes"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Anzug der Magie"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Besen"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Blassaugenfisch"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Blattrüstung"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("blauer Ring des Schutzes"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("blaues Igelherz"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("blaues Ingeriumtrinit"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Blindfisch"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Borstenpanzer"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("bronzene Jerodar-Halskette"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Brot der Nomaden"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Buch der Angriffsenergie"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Buch der Gruppenheilung"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Buch der Zauberkunst"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Buch des Ausgrabungswissens"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Dampfkanone"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Doppelaxt"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Dydromonia"'] {
+  color: $m-sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("dunkle Kontrolle"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("dunkler Sockel"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Eisenzange"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Eiskristall-Pulver"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Eisstachel"'] {
+  color: $m-sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("energetische Chaoslabor-Scheibe"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("energetischer Schutzzauber"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Erdbeben"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("faulige Birne"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Felsenwurmschild"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Fernheilzauber"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Fernschutzzauber"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Feuerball"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Feuerdiamant"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Feuerkolben"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Feueröl"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Feuerstab"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Feuriges Ornament"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("flammloser Kleisterschild"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Flasche Sumpfgas"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Furgorpilz"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("gelber Ring des Schutzes"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("gelbes Ingeriumsulferat"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Gelbpollenschleuder"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Gelbsäure"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("gewundener Draht"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Giftdolch der Händler"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Giftnadelkeule"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Gipfellöwenzahn"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("goldene Jerodar-Halskette"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("goldener Kuhdarm"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("goldenes Schmuckstück"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Goldflosse"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Goldkrebspanzer"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Goldnugget"'] {
+  color: $m-sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Goldschwert"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Goldstaub"'] {
+  color: $m-sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("große Axt"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("großer Blumenstrauß"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("großer Heiltrank"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("großer Skorpionstachel"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Gruppenheilzauber"'] {
+  color: $m-sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Gussform"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Hasenfell"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Hautbrand"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Heilender Regen"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Heiße Lava"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Horn des Teidams"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Hörnchen des Teidam-Babys"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Ingerium"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("juwelenbesetzter Goldbarren"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Kaktuspfeil"'] {
+  color: $m-sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Kampfunfähigkeitszauber"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("kaputter Helm des Lichts"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("kaputter Ring des Todes"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("kaputter roter Ring"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Kern der Vernichtung"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Kern der Zähigkeit"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("kleiner Blumenstrauß"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Kleiner Bonsai-Laraf"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("kleiner Holzschild"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("kleiner Holzstock"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("kleiner Keil"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Kralle der Dunkelheit"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Kräuterpastille"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Kristall der Heilung"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Kristall des Schmerzes"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Kristallstab"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Krustenkäferpanzer"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Langzahn"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Lavapanzer"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("lebendes Wasser"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Lianenpeitsche"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Madenstachel"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("magische Eiskeule"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Messsender"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Nebelanemone"'] {
+  color: $m-sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Nebelkristall"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Nebelschwert"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Nolulawurzel"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Notizblock"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Nudelholz"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Pergament der goldenen Einladung"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Phasentruhe von Belpharia"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Regenstab"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Ring des Todes"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Ring des Vulkans"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("rostiges Schwert"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("rote Rose"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("rote Schnur"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("roter Felsedelstein"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Rubin"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Salzpanzer"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Sandkanone"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Sandstab"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Sandzange"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Savannengras"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Schachtelmesserblatt"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Schere"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Schild der Vernichtung"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Schild von Narubia"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Schild von Pensal"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Schlangengift"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Schneegurke"'] {
+  color: $m-sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("schwache Lebenserweiterung"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("schwacher Schutzzauber"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Schwarzer Eiskristall"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Schwert des Lichts"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("seltsamer Trank"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Serum des Todes"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Sicht der Schwäche"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Siegel der Beute"'] {
+  color: $m-sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Silberfuchsfell"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("silberne Jerodar-Halskette"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Sorus-Kapsel"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Speisekarte aus Blatenien"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Spitzhacke"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Sprengpockenkorn"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Stab der Entgiftung"'] {
+  color: $m-sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Stab der Feuerbälle"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Stab der fremden Gedanken"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Stab der Gruppenheilung"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Stab der Innovation"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Stab des Lichts"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Stachel des Todes"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Stachelrüstung"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Stahlanzug-Vorderseite"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("starker Rückangriff'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Statue von Horikon"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Steinhuhn-Ei"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Stein des Todes"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Stierhoden"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Staubschleifer-Ei"'] {
+  color: $m-sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Teidam-Fansticker"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("toter Blattalisk"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("toter Gewebewurm"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Trockenwurmpanzer"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Trockenwurmteppich"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Tropfstein"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("unreines Ingerium"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("virenverseuchter Schleim"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Vulkanschwert"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Waldbodengoldblume"'] {
+  color: $m-sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Waldschlurchpanzer"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Wasserbärenkralle"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Winddistel"'] {
+  color: $m-sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("weiße Rose"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("Zauber der Wiederherstellung"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("zerbrochene Jerodar-Halskette"'] {
+  color: $sellItem
+}
+
+td.areadescription table b[onmouseover^='tt("zerfallener Sandring"'] {
+  color: $sellItem
+}
