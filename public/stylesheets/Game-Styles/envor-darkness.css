@@ -4068,7 +4068,7 @@ span.small {
 .framebannerbg > table {
   background-color: transparent; }
 
-p.worldsay > table {
+p.worldsay > table, body.frameitembg > table {
   border-radius: 0 !important;
   box-shadow: none !important;
   background-color: transparent !important; }
