@@ -1013,7 +1013,8 @@ td.areadescription table b[onmouseover^='tt("zerfallener Sandring"'] {
 .framechattextbg {
   margin-left: 30px;
   margin-top: 10px;
-  background-color: white; }
+  background-color: white;
+  background-image: none; }
 
 /* Chat */
 /* Colors */
@@ -4053,7 +4054,7 @@ table {
   border: 0;
   border-collapse: collapse; }
 
-.areadescription, td#personlist, .itemlistcaption {
+.areadescription, td#personlisttd, .itemlistcaption {
   width: 1200px;
   background-color: dimgray; }
 
