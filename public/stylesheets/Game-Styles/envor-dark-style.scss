@@ -46,7 +46,9 @@ span.small {
 }
 
 p.worldsay > table {
-  border: 0;
+  border-radius: 0.4em !important;
+  box-shadow: 0 0 0 4px $green !important;
+  background-color: transparent !important;
 }
 
 table {
