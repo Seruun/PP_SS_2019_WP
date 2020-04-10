@@ -4,7 +4,7 @@
 /* Forms */
 .input {
   font-size: $font-13;
-  background-color: transparent;
+  background-color: white;
   border: 1px solid $darkgrey;
   color: $chat-text;
 }
@@ -133,4 +133,12 @@
 
 .chatpics {
   display: none;
+}
+
+form#chatform > table {
+  background-color: transparent !important;
+}
+
+input#chat_text.input {
+  background-color: $white;
 }
