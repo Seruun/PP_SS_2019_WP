@@ -4063,8 +4063,8 @@ span.small {
   background-color: transparent; }
 
 p.worldsay > table {
-  border-radius: 0.4em !important;
-  box-shadow: 0 0 0 4px green !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
   background-color: transparent !important; }
 
 table {
