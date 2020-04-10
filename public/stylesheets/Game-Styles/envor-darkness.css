@@ -4050,13 +4050,8 @@ body {
   background-size: cover; }
 
 /* Table */
-table {
-  border: 0;
-  border-collapse: collapse; }
-
 .areadescription, td#personlisttd, .itemlistcaption {
-  width: 1200px;
-  background-color: dimgray; }
+  width: 1200px; }
 
 .worldsay table tbody tr {
   background-color: green; }
@@ -4065,9 +4060,9 @@ span.small {
   color: white; }
 
 table {
-  background: transparent !important;
   border-radius: 0.4em;
-  box-shadow: 0 0 0 4px #999999; }
+  box-shadow: 0 0 0 4px #999999;
+  background-color: dimgray; }
 
 table#fastspell > tbody,
 table#fastspell1 > tbody,

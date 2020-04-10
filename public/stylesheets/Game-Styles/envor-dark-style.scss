@@ -29,14 +29,8 @@ body {
 }
 
 /* Table */
-table {
-  border: 0;
-  border-collapse: collapse;
-}
-
 .areadescription, td#personlisttd, .itemlistcaption {
   width: 1200px;
-  background-color: dimgray;
 }
 
 .worldsay table tbody tr {
@@ -48,9 +42,9 @@ span.small {
 }
 
 table {
-  background: transparent !important;
   border-radius: 0.4em; // 1
   box-shadow: 0 0 0 4px $Outline-BG; // 1
+  background-color: dimgray;
 }
 
 table#fastspell > tbody,
