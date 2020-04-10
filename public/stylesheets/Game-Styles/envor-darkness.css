@@ -125,7 +125,9 @@ form#chatform > table {
   background-color: transparent !important; }
 
 input#chat_text.input {
-  background-color: white; }
+  background-color: white;
+  font-weight: bold;
+  font-size: 12px; }
 
 /* Chat */
 /* Colors */
