@@ -4064,7 +4064,7 @@ table {
 span.small {
   color: white; }
 
-.ukbar, tbody {
+table {
   background: transparent !important;
   border-radius: 0.4em;
   box-shadow: 0 0 0 4px #999999; }
