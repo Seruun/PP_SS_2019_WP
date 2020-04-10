@@ -4078,7 +4078,8 @@ p.worldsay > table, body.frameitembg > table {
 table {
   border-radius: 0.4em;
   box-shadow: 0 0 0 4px #999999;
-  background-color: dimgray; }
+  background-color: dimgray;
+  max-width: 1200px !important; }
 
 table#fastspell > tbody,
 table#fastspell1 > tbody,
