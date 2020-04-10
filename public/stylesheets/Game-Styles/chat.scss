@@ -137,6 +137,9 @@
 
 form#chatform > table {
   background-color: transparent !important;
+  max-width: 100% !important;
+  box-shadow: none !important;
+  border-radius: 0 !important;
 }
 
 input#chat_text.input {
