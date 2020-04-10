@@ -34,8 +34,9 @@ table {
   border-collapse: collapse;
 }
 
-.areadescription {
-  max-width: 90%;
+.areadescription, td#personlist, .itemlistcaption {
+  width: 1200px;
+  background-color: dimgray;
 }
 
 .worldsay table tbody tr {
