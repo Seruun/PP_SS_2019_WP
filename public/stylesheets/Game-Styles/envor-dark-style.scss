@@ -33,6 +33,16 @@ body {
   width: 1200px;
 }
 
+.areadescription {
+  font-size: $font-12 !important;
+}
+
+td.mainheader {
+  font-size: $font-13 !important;
+  font-weight: bolder;
+  text-align-all: center;
+}
+
 .worldsay table tbody tr {
   background-color: $green;
 }
@@ -76,7 +86,6 @@ table#fastspell9 > tbody {
 a {
   text-decoration: none;
   font-weight: bold;
-  font-size: $font-12 !important;
 }
 
 a:link {

@@ -4064,6 +4064,14 @@ body {
 .areadescription, td#personlisttd, .itemlistcaption {
   width: 1200px; }
 
+.areadescription {
+  font-size: 12px !important; }
+
+td.mainheader {
+  font-size: 13px !important;
+  font-weight: bolder;
+  text-align-all: center; }
+
 .worldsay table tbody tr {
   background-color: green; }
 
@@ -4100,8 +4108,7 @@ table#fastspell9 > tbody {
 /* Links */
 a {
   text-decoration: none;
-  font-weight: bold;
-  font-size: 12px !important; }
+  font-weight: bold; }
 
 a:link {
   color: #b10e03; }
