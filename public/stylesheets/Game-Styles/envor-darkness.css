@@ -4070,7 +4070,10 @@ body {
 td.mainheader {
   font-size: 13px !important;
   font-weight: bolder;
-  text-align-all: center; }
+  text-align: center; }
+
+.imageborder {
+  margin-right: 15px; }
 
 .worldsay table tbody tr {
   background-color: green; }
