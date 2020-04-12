@@ -76,7 +76,7 @@ table#fastspell9 > tbody {
 a {
   text-decoration: none;
   font-weight: bold;
-  font-size: $font-12;
+  font-size: $font-12 !important;
 }
 
 a:link {

@@ -4101,7 +4101,7 @@ table#fastspell9 > tbody {
 a {
   text-decoration: none;
   font-weight: bold;
-  font-size: 12px; }
+  font-size: 12px !important; }
 
 a:link {
   color: #b10e03; }
