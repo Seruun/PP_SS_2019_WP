@@ -40,7 +40,11 @@ body {
 td.mainheader {
   font-size: $font-13 !important;
   font-weight: bolder;
-  text-align-all: center;
+  text-align: center;
+}
+
+.imageborder {
+  margin-right: 15px;
 }
 
 .worldsay table tbody tr {
