@@ -4082,7 +4082,8 @@ span.small {
   color: white; }
 
 .framebannerbg > table {
-  background-color: transparent; }
+  background-color: transparent;
+  max-width: 100% !important; }
 
 p.worldsay > table, body.frameitembg > table {
   border-radius: 0 !important;
