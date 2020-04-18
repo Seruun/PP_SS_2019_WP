@@ -109,6 +109,10 @@ a:hover {
   color: $link-hover;
 }
 
+a[href*="main.php?arrive_eval=upgrade"] {
+  font-size: $font-12 !important;
+}
+
 /* Fonts */
 h1, .medium, .small {
   color: $white;

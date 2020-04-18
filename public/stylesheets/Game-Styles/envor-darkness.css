@@ -4126,6 +4126,9 @@ a:active {
 a:hover {
   color: #ffb90f; }
 
+a[href*="main.php?arrive_eval=upgrade"] {
+  font-size: 12px !important; }
+
 /* Fonts */
 h1, .medium, .small {
   color: white; }
